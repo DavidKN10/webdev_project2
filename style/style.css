@@ -37,3 +37,35 @@ header {
 #main-nav a:hover {
   color: #004b8d;
 }
+
+h1, h2, h3 {
+  color: #222;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  color: #004b8d;
+}
+
+h2 {
+  font-size: 1.5em;
+  border-bottom: 2px solid #0077cc;
+  padding-bottom: 5px;
+}
+
+h3 {
+  font-size: 1.2em;
+  color: #0077cc;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+ul {
+  margin: 10px 0 20px 30px;
+}
